@@ -55,4 +55,5 @@
 
 5. **Serial Output:**
    ```plaintext
-   Light: <value> | Temp: <value>
+   Light: <value> | Temp: <value> | Light Thresh: <value> | Temp Thresh: <value>
+ 
